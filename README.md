@@ -1,3 +1,15 @@
+# React Redux Example
+
+Simple react redux application for fetching information about user by his username.
+
+## Test usernames:
+
+*   Bret
+*   Antonette
+*   Samantha
+*   Kamren
+*   Moriah.Stanton
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
